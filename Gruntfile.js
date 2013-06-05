@@ -32,7 +32,7 @@ module.exports = function(grunt) {
         eqnull: true,
         browser: true
       },
-      all: ['*.js']
+      all: ['Gruntfile.js', 'jquery.simpleValidation.js']
     }    
   });
 
