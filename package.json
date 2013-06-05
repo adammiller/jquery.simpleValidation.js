@@ -1,0 +1,14 @@
+{
+  "name": "jquery.simpleValidation",
+  "version": "0.0.1",
+  "description": "Dead simple validation with jQuery",
+  "repository": "git@github.com:adammiller/dostuff-metro.git",
+  "author": "Adam Miller",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-bump": "0.0.2"
+  }
+}
