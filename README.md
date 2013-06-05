@@ -13,7 +13,7 @@ A simpler approach to client-side validation.
 
 ## Example Usage
 
-** Example 1: required and a format alias. **
+**Example 1: required and a format alias.**
 
 ```html
 <form>
@@ -23,7 +23,7 @@ A simpler approach to client-side validation.
 </form>
 ```
 
-** Example 2: Custom formats **
+**Example 2: Custom formats**
 
 ```html
 <form>
@@ -34,7 +34,7 @@ A simpler approach to client-side validation.
 </form>
 ```
 
-** Example 3: Match another input
+**Example 3: Match another input**
 
 ```html
 <form>
@@ -47,7 +47,7 @@ A simpler approach to client-side validation.
 </form>
 ```
 
-** Example 4: Date parsing validation with Moment.js
+**Example 4: Date parsing validation with Moment.js**
 
 ```html
 <form>
