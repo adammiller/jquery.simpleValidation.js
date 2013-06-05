@@ -3,11 +3,10 @@ Simple Validation with jQuery
 
 A simpler approach to client-side validation.
 
-- No initialization.
+- No initialization, or reinitialziation.
 - Data attribute driven.
-- Validation on change.
-- Pass/Fail validation testing.
-- Events handled on the body element, not bound to every, single, form, element.
+- Validate on change.
+- Pass/Fail validation testing. No messages to complicate things.
 - No extra js configuration (unless you're into that sort of thing).
 
 
